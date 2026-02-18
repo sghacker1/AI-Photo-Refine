@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Refiner",
+  "description": "Transform and edit images using the power of Gemini 2.5 Flash Image. Replace objects, stylize scenes, or refine details with simple text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
